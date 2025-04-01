@@ -1,5 +1,4 @@
-crash-reports
-datapacks
-mods
-resourcepacks
-shaderpacks
+*
+
+!config
+!README.md
