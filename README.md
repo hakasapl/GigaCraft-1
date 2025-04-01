@@ -5,8 +5,17 @@
 ### Big Mods
 
 * Ad Astra
+  * Mekanism: Ad Astra Ores (Mekanism Integration)
+  * Thermal and Space (Thermal Integration)
 * Ars Nouveau
+  * Ars Energistique (Applied Energistics 2 Integration)
+  * Ars Nouveau Flavors & Delight (Farmer's Delight Integration)
+  * Ars Ocultas (Occultism Integration)
+  * Tome of Blood: Rebirth (Blood Magic Integration)
 * Applied Energistics 2
+  * Applied Energistics 2 Wireless Terminals
+  * Create: Applied Kinetics (Create Integration)
+  * Mega Cells
 * Botania
 * Blood Magic
 * CC: Tweaked
