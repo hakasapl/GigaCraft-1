@@ -13,13 +13,20 @@
   * Ars Ocultas (Occultism Integration)
   * Tome of Blood: Rebirth (Blood Magic Integration)
 * Applied Energistics 2
+  * Applied Botanics (Botania Integration)
   * Applied Energistics 2 Wireless Terminals
+  * Applied Mekanistics (Mekanism Integration)
   * Create: Applied Kinetics (Create Integration)
   * Mega Cells
 * Botania
+  * Ars Botania (Ars Nouveau Integration)
 * Blood Magic
 * CC: Tweaked
 * Create
+  * Create Crafts and Additions
+  * Create Deco
+  * Create: Estrogen
+  * Create: Testosterone
 * Draconic Evolution
 * Ender IO
 * Ender Storage
@@ -66,3 +73,4 @@
 ## Open Questions
 
 * Add waystones? Or Stargate Journey is sufficient?
+* Create chunks and stuff compatible with everything else?
