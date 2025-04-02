@@ -25,8 +25,6 @@
 * Create
   * Create Crafts and Additions
   * Create Deco
-  * Create: Estrogen
-  * Create: Testosterone
 * Draconic Evolution
 * Ender IO
 * Ender Storage
@@ -37,7 +35,11 @@
   * Industrial Foregoing: Souls
 * Mekanism
   * Mekanism Generators
+* Nature's Aura
 * Occultism
+* PneumaticCraft
+* Powah!
+* Productive Bees
 * Stargate Journey
 * Thermal Series
   * Thermal Cultivation
@@ -74,3 +76,4 @@
 
 * Add waystones? Or Stargate Journey is sufficient?
 * Create chunks and stuff compatible with everything else?
+* natures compass?
