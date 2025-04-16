@@ -67,6 +67,8 @@
 ### Decoration
 
 * Thaumon
+* Architect's Pallet?
+* Chipped?
 
 ### Mobs
 
