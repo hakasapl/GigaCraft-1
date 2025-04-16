@@ -61,7 +61,7 @@
 
 ### Fun Mods
 
-* Exposure
+* Exposure (-1)
 * Mermod
 
 ### Decoration
@@ -69,6 +69,9 @@
 * Thaumon
 
 ### Mobs
+
+* Morph Mod
+* Alex's Mobs
 
 ### Exploration
 
