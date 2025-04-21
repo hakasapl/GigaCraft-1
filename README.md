@@ -6,8 +6,8 @@
 
 ### Big Mods
 
-* Ad Astra
-* Ars Nouveau
+* Ad Astra (**TECH / EXPLORATION**)
+* Ars Nouveau  (**MAGIC**)
   * Addons
     * Ars Elemental
       * Integrations
@@ -19,17 +19,17 @@
     * Ars Ocultas (*Occultism*)
     * Tinker's Integrations and Tweaks (*Tinker's Construct*)
     * Tome of Blood: Rebirth (*Blood Magic*)
-* Applied Energistics 2
+* Applied Energistics 2 (**TECH / STORAGE**)
   * Addons
     * Applied Energistics 2 Wireless Terminals
     * Mega Cells
   * Integrations
     * Applied Mekanistics (*Mekanism*)
     * Ars Energistique (*Ars Nouveau*)
-* Blood Magic
+* Blood Magic (**MAGIC**)
   * Integrations
     * Tome of Blood: Rebirth (*Ars Nouveau*)
-* Create
+* Create (**TECH**)
   * Addons
     * Create Crafts and Additions
     * Create Deco
@@ -38,9 +38,9 @@
     * Ars Creo (*Ars Nouveau*)
     * Create Slice & Dice (*Farmer's Delight*)
     * Tinker's Integrations and Tweaks (*Tinker's Construct*)
-* Draconic Evolution
-* Ender IO
-* Farmer's Delight
+* Draconic Evolution (**TECH**)
+* Ender IO (**TECH**)
+* Farmer's Delight (**FOOD**)
   * Addons
     * Brewin' and Chewin'
     * Corn Delight
@@ -54,20 +54,20 @@
     * Caves Delight (*Alex's Caves*)
     * Create Slice & Dice (*Create*)
     * Tinker's Construct Delight (*Tinker's Construct*)
-* Functional Storage
-* Mekanism
+* Functional Storage (**STORAGE**)
+* Mekanism (**TECH**)
   * Addons
     * Mekanism Generators
     * Mekanism Tools
   * Integrations
     * Applied Mekanistics (*Applied Energistics 2*)
     * Tinker's Integrations and Tweaks (*Tinker's Construct*)
-* Occultism
+* Occultism (**MAGIC**)
   * Integrations
     * Ars Ocultas (*Ars Nouveau*)
-* Productive Bees
-* Stargate Journey
-* Tinkers Construct
+* Productive Bees (**TECH**)
+* Stargate Journey (**TECH**)
+* Tinkers Construct (**TOOLS**)
   * Addons
     * Tinker's Leveling Addon
     * Tinker's Vein Miner
