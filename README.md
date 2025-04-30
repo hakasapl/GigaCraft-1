@@ -120,10 +120,8 @@
 * Diagonal Fences
 * Diagonal Windows
 * ElevatorMod
-* Eureka! Ships! for Valkyrian Skies
 * Framed Blocks
 * Handcrafted
-* Immersive Weathering
 * Infinity Buttons
 * Macaw's Bridges
 * Macaw's Fences and Walls
