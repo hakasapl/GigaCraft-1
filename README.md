@@ -138,6 +138,8 @@
 * Supplementaries
 * Supplementaries Squared
 * Thaumon
+* Architect's Pallet?
+* Chipped?
 
 ### Mobs
 
